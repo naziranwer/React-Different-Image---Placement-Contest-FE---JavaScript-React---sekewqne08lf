@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/App.css';
-import programmingGif from './assests/programming.gif';
+import programmingGif from '../assests/programming.gif';
 
 const GIF = () => {
   return (
