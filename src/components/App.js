@@ -9,7 +9,7 @@ const GIF = () => {
 }
 
 const App = () => {
-  const imageUrl='https://piscum.photos/id/400/200';
+  const imageUrl='https://picsum.photos/id/400/200';
   return (
     <div id="main">
       <h1>Add images in 2-different ways.</h1>
